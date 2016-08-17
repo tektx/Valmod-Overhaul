@@ -1509,7 +1509,6 @@
 			</rect>
 		</rect>
 	</window>
-
 	
 	<window name="windowSkillStats" width="603" height="303" panel="Right">
 		<panel name="header" height="43" depth="1" backgroundspritename="ui_game_panel_header">
