@@ -502,7 +502,7 @@
 	
 	<skill_attribute>
 		<rect controller="SkillAttributeEntry">
-			<label depth="1" pos="0,-4" text="{Attribute}" upper_case="true" font_size="26" visible="{hasAttribute}" height="43" width="300" color="{lockedcolor}" justify="left" />
+			<label depth="1" pos="0,-4" text="{Attribute}" upper_case="true" font_size="13" visible="{hasAttribute}" height="30" width="300" color="{lockedcolor}" justify="left" />
 		</rect>
 	</skill_attribute>
 	
